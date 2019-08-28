@@ -1,6 +1,6 @@
 # API Doc
 
-API Documentation is written in OpenAPI Specification (OAS).
+API Doc creates API Documentation written in OpenAPI Specification (OAS).
 
 ## Getting started
 
@@ -10,7 +10,7 @@ Initialize the project
 mkdir tmp
 cd tmp
 npm init -y
-npm install ../static-open-api-1.0.0.tgz
+npm install @anli/api-doc
 npx api-doc-init
 ```
 
