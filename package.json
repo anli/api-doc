@@ -23,7 +23,7 @@
     "shelljs": "^0.8.3",
     "staticrypt": "^1.3.2",
     "swagger-nodegen-cli": "^3.0.8",
-    "swagger-ui-dist": "^3.23.5",
+    "swagger-ui-dist": "^4.1.3",
     "yamljs": "^0.3.0"
   },
   "devDependencies": {
